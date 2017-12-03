@@ -70,13 +70,14 @@ h2 {
 
 
 #headshot {
-	float: left;
-	height: 170px;
-	width: 120px;
+	height: 175px;
+	width: 125px;
 	margin-right: 20px;
+	float: left;
+
 }
 
-.col-sm-12 {
+.bottom {
 	background-color: gray;
 	color: #BEBEBE;
 	border-top: 5px;
@@ -116,3 +117,12 @@ h2 {
 	width: 175px;
 	font-size: 90%;
 }
+
+.btn {
+	margin-top: 20px;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	padding: 10px 30px;
+}
+
+
