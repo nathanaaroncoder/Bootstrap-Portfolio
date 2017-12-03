@@ -1,0 +1,118 @@
+body {
+	background-image: url(images/memphis-colorful.png);
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+
+.navbar-fixed-top {
+	border-bottom: 2px;
+	border-bottom-color: #4aaaa5;
+	border-bottom-style: solid;
+	padding-right: 20px;
+	background-color: #ffffff;
+	font-size: 110%;
+	margin-bottom: 40px;
+}
+
+.navbar-brand {
+	background-color: #4aaaa5;
+	color: white;
+	font-size: 150%;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	padding: 25px 25px 45px 25px;
+	font-weight: bold;
+
+}
+
+.navbar-right {
+	padding-top: 10px;
+}
+
+h1 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 175%;
+	font-weight: bold;
+}
+
+h2 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 150%;
+	font-weight: 600;
+}
+
+
+.row-top {
+	margin: 80px 20px;
+}
+
+
+.aboutme, .portfolio {
+	background-color:  #ffffff;
+	color: #4aaaa5;
+	border: 1px solid;
+	border-color: #4aaaa5;
+	padding: 20px;
+	line-height: 25px;
+	font-size: 105%;
+	letter-spacing: .8px;
+	margin: 20px 20px 80px 80px;
+}
+
+.col-sm-3 {
+	font-size: 85%;
+	background-color:  #ffffff;
+	color: #4aaaa5;
+	border: 1px solid;
+	border-color: #4aaaa5;
+	padding: 20px;
+	margin: 20px;
+}
+
+
+#headshot {
+	float: left;
+	height: 170px;
+	width: 120px;
+	margin-right: 20px;
+}
+
+.col-sm-12 {
+	background-color: gray;
+	color: #BEBEBE;
+	border-top: 5px;
+	border-color: #4aaaa5;
+	border-style: solid;
+	text-align: center;
+	padding: 20px;
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	margin: 0px;
+}
+
+.icon {
+	height: 50px;
+	width: 50px;
+	margin: 5px;
+}
+
+.porticon {
+	height: 150px;
+	width: 175px;
+}
+
+.portfolio-pic {
+	position: relative;
+	margin: 20px 0px;
+}
+
+.banner {
+	position: absolute;
+	bottom: 20px;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	padding: 8px;
+	text-align: center;
+	width: 175px;
+	font-size: 90%;
+}
