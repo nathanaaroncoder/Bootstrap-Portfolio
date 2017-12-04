@@ -72,7 +72,7 @@ h2 {
 #headshot {
 	height: 175px;
 	width: 125px;
-	margin-right: 20px;
+	margin: 0px 20px 20px 0px;
 	float: left;
 
 }
