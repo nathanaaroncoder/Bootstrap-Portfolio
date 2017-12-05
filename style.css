@@ -24,6 +24,15 @@ body {
 
 }
 
+#name {
+	color: white;
+}
+
+#name:hover {
+	background-color: white;
+	color: #4aaaa5;
+}
+
 .navbar-right {
 	padding-top: 10px;
 }
@@ -70,9 +79,9 @@ h2 {
 
 
 #headshot {
-	height: 175px;
+	height: 185px;
 	width: 125px;
-	margin: 0px 20px 20px 0px;
+	margin: 0px 20px 0px 0px;
 	float: left;
 
 }
